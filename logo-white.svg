@@ -1,0 +1,8 @@
+<svg width="200" height="70" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 70">
+  <style>
+    .logo-main { font-family: 'Inter', 'Arial', 'Helvetica', sans-serif; font-weight: 700; }
+    .logo-sub { font-family: 'Inter', 'Arial', 'Helvetica', sans-serif; font-weight: 500; }
+  </style>
+  <text x="100" y="30" class="logo-main" font-size="36" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">EMZEE</text>
+  <text x="100" y="52" class="logo-sub" font-size="16" fill="#ffffff" text-anchor="middle" dominant-baseline="middle" letter-spacing="2px">IT SOLUTIONS</text>
+</svg>
